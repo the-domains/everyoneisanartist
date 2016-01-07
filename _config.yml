@@ -1,0 +1,28 @@
+name: EveryoneIsanArtist
+favicon: null
+layout_spectrum: 0.7128770858980715
+typography_spectrum: 0.46239765314385295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3979745665565133
+  lightness: 0.13382058776915073
+  saturation: 0.3961609983816743
+  rhythmicContrast: 0.8621680021751672
+purpose: []
